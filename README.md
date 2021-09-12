@@ -7,3 +7,8 @@ Im a python enthusiast based in London,UK
 - 🌱 I’m currently learning python for Data Science and Machine learning.
 - 👯 I’m looking to collaborate with data science and analytics projets.
 - ♥️ I love good coffee and coding (In that order)
+
+
+
+
+https://bit.ly/3Edu03A
